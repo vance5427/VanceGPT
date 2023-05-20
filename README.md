@@ -7,3 +7,4 @@ Downloading messenger data to feed modle conversational info.
 
 
 See openai-node for working basic VanceGPT. Sortign conversation data to feed to model. Iniital test with small amount of data was successful
+Will start collaborating with Amir more
